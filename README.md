@@ -15,8 +15,16 @@ This is a test of the .MD language structure and capabilities.
   
 ![hippo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
+ * A Table
+ 
+ | Key | Value |
+|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | A |
+| 2 | B |
+| 3 | C |
+| 4 | E |
 ---
 
-_The Enterprise-Scale architecture represents the strategic design path and target technical state for your Azure environment._
+_Terraform Scribbles_
 
 ---
