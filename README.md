@@ -28,3 +28,7 @@ This is a test of the .MD language structure and capabilities.
 _Terraform Scribbles_
 
 ---
+
+## Contributing
+
+This project is a bit to lame to contribute to ;)
