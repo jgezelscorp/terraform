@@ -31,4 +31,4 @@ _Terraform Scribbles_
 
 ## Contributing
 
-This project is a bit to lame to contribute to ;)
+This project is a bit to lame to contribute to ;) but you can always do
